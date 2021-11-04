@@ -1,5 +1,5 @@
-`ifndef device0_UART_SEQ_PKG_INCLUDED_
-`define device0_UART_SEQ_PKG_INCLUDED_
+`ifndef DEVICE0_UART_SEQ_PKG_INCLUDED_
+`define DEVICE0_UART_SEQ_PKG_INCLUDED_
 
 //-----------------------------------------------------------------------------------------
 // Package: device0_uart_seq_pkg

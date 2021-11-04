@@ -12,7 +12,7 @@
 +incdir+../../src/hdl_top/uart_interface \
 ../../src/globals/uart_globals_pkg.sv \
 ../../src/hvl_top/Device0/uart_device0_pkg.sv \
-../../src/hvl_top/Devive1/uart_device1_pkg.sv \
+../../src/hvl_top/Device1/uart_device1_pkg.sv \
 ../../src/hvl_top/test/sequences/device0_sequences/device0_uart_seq_pkg.sv \
 ../../src/hvl_top/test/sequences/device1_sequences/device1_uart_seq_pkg.sv \
 ../../src/hvl_top/env/uart_env_pkg.sv \

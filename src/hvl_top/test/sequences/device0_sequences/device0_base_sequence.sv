@@ -1,5 +1,5 @@
-`ifndef device0_BASE_SEQUENCE_INCLUDED_
-`define device0_BASE_SEQUENCE_INCLUDED_
+`ifndef DEVICE0_BASE_SEQUENCE_INCLUDED_
+`define DEVICE0_BASE_SEQUENCE_INCLUDED_
 //--------------------------------------------------------------------------------------------
 // Class: device0_base_sequence
 // Creating device0_base_seq extends from uvm_sequence 
