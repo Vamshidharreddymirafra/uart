@@ -10,7 +10,7 @@ module hvl_top;
   import uvm_pkg::*;
 
   //-------------------------------------------------------
-  // Declaring SPI Interface
+  // Declaring UART Interface
   //-------------------------------------------------------
   uart_if vif();
 
@@ -19,7 +19,7 @@ module hvl_top;
   //-------------------------------------------------------
   initial begin
     //-------------------------------------------------------
-    // Setting SPI Interface
+    // Setting UART Interface
     //-------------------------------------------------------
     uvm_config_db #(virtual uart_if)::set(null,"*","vif",vif); 
     run_test("base_test");
